@@ -1,0 +1,4 @@
+routes:
+  - path: /
+    file: /index.html
+    type: spa
